@@ -1,4 +1,4 @@
-package com.example.mvcServiceJee;
+package com.example.mvcServiceJee.controller;
 
 import java.io.*;
 import javax.servlet.http.*;
