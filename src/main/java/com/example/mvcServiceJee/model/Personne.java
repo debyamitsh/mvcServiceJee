@@ -17,15 +17,15 @@ public class Personne {
         this.prenom = prenom;
     }
 
-    public char getGenre() {
+    public String getGenre() {
         return genre;
     }
 
-    public void setGenre(char genre) {
+    public void setGenre(String genre) {
         this.genre = genre;
     }
 
     private String nom;
     private String prenom;
-    private char genre;
+    private String genre;
 }

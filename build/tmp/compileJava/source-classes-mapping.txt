@@ -1,0 +1,10 @@
+com/example/mvcServiceJee/controller/HelloServlet.java
+ com.example.mvcServiceJee.controller.HelloServlet
+com/example/mvcServiceJee/model/Etudiant.java
+ com.example.mvcServiceJee.model.Etudiant
+com/example/mvcServiceJee/controller/saveStudentServlet.java
+ com.example.mvcServiceJee.controller.saveStudentServlet
+com/example/mvcServiceJee/model/EtudiantIO.java
+ com.example.mvcServiceJee.model.EtudiantIO
+com/example/mvcServiceJee/model/Personne.java
+ com.example.mvcServiceJee.model.Personne
